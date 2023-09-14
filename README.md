@@ -22,7 +22,7 @@ This is a Library Management System project developed as part of an internship a
 ## Usage
 
 1. Clone the repository.
-2. Run `python calculator.py`.
+2. Run `python library.py`.
 3. Use the GUI to perform calculations.
 
 ## Dependencies
