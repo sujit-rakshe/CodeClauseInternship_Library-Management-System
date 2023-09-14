@@ -4,7 +4,7 @@
 
 This is a Library Management System project developed as part of an internship at CodeClause. The system provides a user-friendly interface for managing library resources, including books and user records.
 
-![Library Management System](Screenshots.png)
+![Library Management System](Screenshot.png)
 
 ## Features
 
