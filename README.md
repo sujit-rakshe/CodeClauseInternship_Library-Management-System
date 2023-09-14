@@ -1,6 +1,7 @@
-# Library Management System
+# **Golden Project 2: Library Management System with Tkinter GUI in Python**
 
-**Project Overview:**
+
+**Internship Project at CodeClause**
 
 This is a Library Management System project developed as part of an internship at CodeClause. The system provides a user-friendly interface for managing library resources, including books and user records.
 
