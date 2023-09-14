@@ -18,7 +18,7 @@ This is a Library Management System project developed as part of an internship a
 
 ## Demo Video
 
-[Watch the Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the Demo on YouTube](https://youtu.be/e18q9jvJj50)
 
 ## Usage
 
